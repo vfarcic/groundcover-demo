@@ -7,6 +7,6 @@ export const options = {
 };
 
 export default function () {
-  http.get('http://silly-demo.127.0.0.1.nip.io/video?id=something&title=else');
+  http.get('http://silly-demo.35.231.235.238.nip.io/video?id=something&title=else');
   sleep(1);
 }

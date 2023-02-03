@@ -7,6 +7,6 @@ export const options = {
 };
 
 export default function () {
-  http.get('http://silly-demo.35.231.235.238.nip.io');
+  http.get('http://silly-demo.34.148.163.97.nip.io');
   sleep(1);
 }

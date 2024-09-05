@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.12.0/.schema/devbox.schema.json",
+  "packages": [
+    "zellij@0.40.1",
+    "kind@0.24.0",
+    "path:gcloud#google-cloud-sdk",
+    "kubernetes-helm@3.15.4"
+  ],
+  "shell": {
+    "init_hook": [],
+    "scripts":   {}
+  }
+}
